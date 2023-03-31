@@ -5,15 +5,12 @@ SET search_path = my_schema, "$user", entertainmentagencyexample;
 -- order by agtfirstname ASC, agtlastname ASC
 
 -- 2 Ex
--- select engagementnumber, startdate, enddate, starttime, 
--- stoptime, contractprice, customerid, agentid, entertainerid
+-- select *
 -- from engagements
 
 -- 3 Ex
 -- SELECT
 -- engagementnumber, 
--- startdate, enddate, starttime, 
--- stoptime, contractprice, customerid, 
--- agentid, entertainerid
+-- startdate
 -- FROM engagements
 -- ORDER BY engagementnumber DESC, startdate ASC;
